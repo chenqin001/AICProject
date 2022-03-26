@@ -25,7 +25,7 @@ export default class Upload extends Component {
         return (
         <div>
           <p>
-            this is the upload component
+            (this is the upload component)
           </p>
           <div> 
                   <input type="file" onChange={event=>this.changeFile(event)} /> 

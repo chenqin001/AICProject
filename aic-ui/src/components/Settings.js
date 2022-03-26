@@ -11,7 +11,7 @@ export default class Settings extends Component {
         return (
         <div>
           <p>
-            this is the settings component
+            (this is the settings component)
           </p>
         </div>
         );
